@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.2
+matplotlib>=3.5.0
+tqdm>=4.64.0
+emoji>=2.2.0
+tensorboard>=2.11.0
+waybackpy>=3.0.6
