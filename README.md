@@ -12,7 +12,7 @@ This repository contains the official implementation of **YıldızSezar**, my B.
 📊 **[Explore the Dataset on Hugging Face](https://huggingface.co/datasets/ilkayO/yildizsezar-turkish-reviews)**  
 
 ## 🎥 Hugging Face Space Demo
-<video src="yildizsezar-demo.mkv" controls="controls" style="max-width: 100%;">
+<video src="yildizsezar-demo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
