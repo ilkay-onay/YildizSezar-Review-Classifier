@@ -11,6 +11,8 @@ This repository contains the official implementation of **YıldızSezar**, my B.
 🤖 **[Try the Live Model on Hugging Face Spaces](https://huggingface.co/spaces/ilkayO/YildizSezar-Demo)**  
 📊 **[Explore the Dataset on Hugging Face](https://huggingface.co/datasets/ilkayO/yildizsezar-turkish-reviews)**  
 
+## 🎥 Hugging Face Space Demo
+https://github.com/ilkay-onay/YildizSezar-Review-Classifier/raw/refs/heads/main/yildizsezar-demo.mkv
 ## 📌 Project Overview
 The objective of **YıldızSezar** is to automatically predict 1-to-5 star ratings directly from morphologically complex Turkish customer reviews. 
 
