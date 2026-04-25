@@ -58,3 +58,10 @@ with torch.no_grad():
     predicted_class_id = torch.argmax(outputs.logits, dim=-1).item()
 
 print(f"Predicted Star Rating: {predicted_class_id + 1} Stars")
+```
+
+## ⚖️ License
+This project utilizes a split-licensing strategy:
+* **Source Code:** [GNU GPL v3.0](LICENSE)
+* **Model Weights:** [Apache 2.0](https://huggingface.co/ilkayO/yildizsezar-convbert)
+* **Dataset:** [CC BY-NC 4.0](https://huggingface.co/datasets/ilkayO/yildizsezar-turkish-reviews)
